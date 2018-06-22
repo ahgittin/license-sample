@@ -1,0 +1,86 @@
+Notice: |
+
+  Apache Brooklyn
+  Copyright 2014-2016 The Apache Software Foundation
+
+  This product includes software developed at
+  The Apache Software Foundation (http://www.apache.org/).
+
+
+Bundled dependencies:
+
+  # This software includes the following bundled third-party components.
+  # Referenced licenses can be found in the accompanying LICENSE file.
+
+  async.js:
+    Available at:  https://github.com/p15martin/google-maps-hello-world/blob/master/js/libs/async.js
+    Developed by:  Miller Medeiros (https://github.com/millermedeiros/)
+    Version used:  0.1.1
+    License used:  The MIT License
+    Notice:        Copyright (c) Miller Medeiros (2011)
+
+  RequireJS:
+    Available at:  http://requirejs.org/
+    Developed by:  The Dojo Foundation (http://dojofoundation.org/)
+    Inclusive of:  require.js, text.js
+    Version used:  2.0.6
+    License used:  The MIT License (http://opensource.org/licenses/MIT)
+    Notice:       Copyright (c) The Dojo Foundation (2010-2012)
+
+  RequireJS (r.js maven plugin):
+    Available at:  http://github.com/jrburke/requirejs
+    Developed by:  The Dojo Foundation (http://dojofoundation.org/)
+    Inclusive of:  r.js
+    Version used:  2.1.6
+    License used:  The MIT License (http://opensource.org/licenses/MIT)
+    Notice: |
+      Copyright (c) The Dojo Foundation (2009-2013)
+      Includes code fragments for source-map and other functionality:
+        Copyright (c) The Mozilla Foundation and contributors (2011)
+        Used under the BSD 2-Clause license.
+      Includes code fragments for parse-js and other functionality:
+        Copyright (c) Mihai Bazon (2010, 2012)
+        Used under the BSD 2-Clause license.
+      Includes code fragments for uglifyjs/consolidator:
+        Copyright (c) Robert Gust-Bardon (2012)
+        Used under the BSD 2-Clause license.
+      Includes code fragments for the esprima parser:
+        Copyright (c):
+          Ariya Hidayat (2011, 2012)
+          Mathias Bynens (2012)
+          Joost-Wim Boekesteijn (2012)
+          Kris Kowal (2012)
+          Yusuke Suzuki (2012)
+          Arpad Borsos (2012)
+        Used under the BSD 2-Clause license.
+
+  underscore.js:
+    Available at:  http://underscorejs.org
+    Developed by:  DocumentCloud Inc. (http://www.documentcloud.org/)
+    Inclusive of:  underscore*.{js,map}
+    Version used:  1.4.4
+    License used:  The MIT License (http://opensource.org/licenses/MIT)
+    Notice:        Copyright (c) Jeremy Ashkenas, DocumentCloud Inc. (2009-2013)
+
+  underscore.js:1.7.0:
+    Available at:  http://underscorejs.org
+    Developed by:  DocumentCloud Inc. (http://www.documentcloud.org/)
+    Inclusive of:  underscore*.{js,map}
+    Version used:  1.7.0
+    License used:  The MIT License (http://opensource.org/licenses/MIT)
+    Notice:        Copyright (c) Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors (2009-2014)
+
+
+Binary dependencies:
+
+  # This software source artifact depends on additional third-party components at runtime.
+  # These are not bundled here but are included as part of a build.
+
+  some.apache.sample:1.0.0:
+    License used:  Apache License 2.0
+    Notice: |
+      This is just an example. It will follow the same format as above.
+      In a binary distribution's LICENSE these items are included in the 
+      previous "Bundled dependencies" section and this "Binary dependencies"
+      section is removed.
+ 
